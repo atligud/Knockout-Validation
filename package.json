@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Knockout-Contrib/Knockout-Validation.git"
+    "url": "https://github.com/atligud/Knockout-Validation.git"
   },
   "author": "@ericmbarnard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Knockout-Contrib/Knockout-Validation/issues"
+    "url": "https://github.com/atligud/Knockout-Validation/issues"
   }
 }
